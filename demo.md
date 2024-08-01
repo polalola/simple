@@ -1,13 +1,10 @@
 This is the first line ohoho!
 
-
-.
-This is the second line.
-
-This is the first line kokokoko.
 KoKoKo.
 
 
+
+This is the first line kokokoko!
 And the third.
 
 Right now I'm in the middle.
