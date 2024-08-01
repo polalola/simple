@@ -1,8 +1,5 @@
 This is the first line kokokoko.
-
-
-.
-This is the second line.
+KoKoKo.
 
 And the third.
 
